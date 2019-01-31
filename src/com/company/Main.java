@@ -8,6 +8,8 @@ public class Main {
         //inna zmiana inny commit
 
 
-        //to jest master
+        //to jest master\
+
+        //wersja A zmiana
     }
 }
